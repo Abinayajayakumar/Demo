@@ -18,3 +18,5 @@ print(word.split('r'))
 x = "Guru99"
 print(x.replace("Guru99","Python"))
 print(x)
+
+print ("Hiiii....established the continous jenkin git integration");
